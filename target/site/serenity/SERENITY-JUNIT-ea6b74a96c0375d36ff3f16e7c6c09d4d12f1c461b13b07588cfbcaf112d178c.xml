@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="testcases.SampleGetRequestTest" skipped="0" tests="1" time="0.0" timestamp="2021-02-25 11:31:09"><testcase classname="testcases.SampleGetRequestTest" name="Initialisation"><error message="Could not initialize class org.codehaus.groovy.reflection.ReflectionCache" type="java.lang.NoClassDefFoundError">Could not initialize class org.codehaus.groovy.reflection.ReflectionCache</error><system-err>Could not initialize class org.codehaus.groovy.reflection.ReflectionCache&#13;
+groovy.lang.GroovySystem.&lt;clinit&gt;(GroovySystem.java:36)&#13;
+io.restassured.internal.ResponseParserRegistrar.&lt;init&gt;(ResponseParserRegistrar.groovy)&#13;
+io.restassured.RestAssured.&lt;clinit&gt;(RestAssured.java:346)&#13;
+testcases.SampleGetRequestTest.init(SampleGetRequestTest.java:18)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:542)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:770)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)&#13;
+</system-err></testcase></testsuite>
